@@ -10,4 +10,4 @@ git clone https://github.com/aman06012003/Pose-Estimation-and-Detecting-Movement
 ```bash
 python mediapipe.py
 ```
-If you find any issue in running the tool contact me or find any issue in the code do reach out to me on my email - kapooraman2468@mail.com
+If you find any issue in running the tool contact me or find any issue in the code do reach out to me on my email - kapooraman2468@gmail.com
